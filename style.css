@@ -1,0 +1,33 @@
+body{
+    text-align:center;
+    padding-top:50;
+}
+
+img{
+    width:300px;
+    padding-top:50px;
+}
+
+.GOD{
+    font-family:italic;
+    position:absolute;
+    top:10px;
+    z-index:10;
+    cursor:pointer;
+    list-style:none
+}
+
+.LINKS{
+    float:left;
+    color:yellow;
+    padding-top:5px;
+    padding-bottom:5px;
+    padding-left:9px;
+    padding-right:9px;
+    font-size:50px;
+    font-family: 'Cedarville Cursive', cursive;
+}
+
+.LINKS:hover(
+background-color:blue;
+)
